@@ -5,7 +5,7 @@ An exploratoration of data analysis using supervised Machine Learning
 
 **Author:** Nemesis Crociata
 
-We've been hired by a major grocer retailer to analyze the most valuable factors contributing to profits. An analysis of products and outlets will be conducted following the CRISP-DM workflow.
+We've been tasked to analyze the most valuable factors contributing to profits. An analysis of products and outlets will be conducted following the CRISP-DM workflow.
 
 ## Data:
 [Original Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
